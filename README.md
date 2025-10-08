@@ -1,7 +1,7 @@
 <img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/3c77fa5d-b1cf-48ea-aa09-73582f28e5cc" />
 
 # NyaIDE 😸
-A Python IDE made in Python. By ANW.
+A cute little Python IDE made in Python. By ANW.
 
 ---
 
